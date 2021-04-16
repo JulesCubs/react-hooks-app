@@ -1,6 +1,7 @@
 import React from "react"; //Esta linea ya no es obligatoria react puede reconocer sin este cambio
 import Header from "./components/Header";
 import Characters from "./components/Characters";
+
 import "./App.css";
 
 function App() {
